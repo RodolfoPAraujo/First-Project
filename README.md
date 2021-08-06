@@ -1,2 +1,2 @@
 # First-Project
-Project Verilog
+This is my first code I made in my first verilog programming class.
